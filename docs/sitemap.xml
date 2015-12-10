@@ -17,6 +17,7 @@
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+    <div>started</div>
   </url>
   {% endif %}
   {% endfor %}
